@@ -77,7 +77,7 @@ The raw dataset is not re-uploaded here. Download it from Kaggle (link below) an
 
 ## How to reproduce
 
-1. Download the raw file from Kaggle: [add link].
+1. Download the raw file from Kaggle: (https://www.kaggle.com/code/ahmedmohamed2003/pandas-for-beginners-eda-using-cafe-sales-data/notebook).
 2. Open the workbook and paste the data into `Raw_Data` starting at A1.
 3. Review `Lookups`, then check `Clean_Data` and `Audit`.
 4. Copy the kept rows into `Final_Clean` as **values only**; the `Audit` sheet should read PASS.
